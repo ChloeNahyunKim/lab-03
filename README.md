@@ -2,7 +2,14 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://developer.android.com/reference/android/os/Bundle
+https://developer.android.com/reference/java/io/Serializable
+https://stackoverflow.com/questions/5260959/what-is-serializable-in-java
+https://developer.android.com/reference/androidx/annotation/NonNull
+https://developer.android.com/reference/androidx/annotation/Nullable
+https://stackoverflow.com/questions/3669325/notifydatasetchanged-example
+https://sumitkumar30.medium.com/different-ways-to-create-an-object-in-java-401a65ef4f7f
+
 
 ## Verbal Collaboration
 
